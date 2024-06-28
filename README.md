@@ -1,6 +1,6 @@
 # CPU_with_5_7_Memory
 ## Introduction 
-CPU is an internal component of the computer system that carries out the instructions of the computer programme. It mainly consists of three components namely control unit, ALU and memory unit. This project is all about making a basic CPU with Basic ALU and 5*7 Memory block. Let me break into smaller topics
+CPU is an internal component of the computer system that carries out the instructions of the computer programme. It mainly consists of three components namely control unit, ALU and memory unit. This project is all about making a basic CPU with Basic ALU and 7*5 Memory block. Let me break into smaller topics
 <br>
 
 ![Final CPU 2.0](https://github.com/icy-chidam/CPU_with_5_7_Memory/assets/124269988/b0c8eff0-a3ec-4b8d-9cda-14c021f7d3ed)
@@ -35,6 +35,9 @@ This Memory block consists of basic building blocks as Binary Cell Memory cells.
 :---------------:|:--------------:|
 `Read`           | 1
 `Write`          | 0 
+
+![7x5 Memory](https://github.com/icy-chidam/CPU_with_5x7_Memory/assets/124269988/42954a25-349f-4698-85bd-725f2602b0da)
+
 ## Features
 * 7-Seg Display
 * Can do arithmetic operations like  `Addition` and `Subtraction`
