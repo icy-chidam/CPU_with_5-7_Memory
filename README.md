@@ -1,4 +1,4 @@
-# CPU_with_5_7_Memory
+# CPU_with_7x5_Memory
 ## Introduction 
 CPU is an internal component of the computer system that carries out the instructions of the computer programme. It mainly consists of three components namely control unit, ALU and memory unit. This project is all about making a basic CPU with Basic ALU and 7*5 Memory block. Let me break into smaller topics
 <br>
